@@ -34,7 +34,7 @@ import csv, datetime
 # put MM database files in module directory
 maxMindDbFiles = []
 #maxMindDbFile = 'GeoIP2-ISP-Blocks-IPv4.20180223.csv.gz'  # %Y%m%d
-maxMindDbFile = 'GeoIP2-ISP-Blocks-IPv4.20180223.csv'  # %Y%m%d
+maxMindDbFile = 'GeoIP2-ISP-Blocks-IPv4.csv'  # %Y%m%d
 
 
 # tree structures for all data; will create multiple versions for date snapshots
